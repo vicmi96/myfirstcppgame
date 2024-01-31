@@ -1,0 +1,3 @@
+﻿  win32_platform.cpp
+C:\Users\vicmi\Desktop\Vic\Projects\My_First_Cpp_Game\My_First_Cpp_Game\win32_platform.cpp(54,5): warning C4007: 'WinMain': must be '__stdcall'
+  My_First_Cpp_Game.vcxproj -> C:\Users\vicmi\Desktop\Vic\Projects\My_First_Cpp_Game\Debug\My_First_Cpp_Game.exe
